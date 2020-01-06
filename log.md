@@ -15,3 +15,11 @@
 **Thoughts:** Programming is hard and rewarding. Learning by yourself how to resolve a problemw without seeing other people's code is awesome.
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype
+
+### Day 3: January 06, 2020 - Monday
+
+**Today's Progress**: I'm starting to understand more about functions and how map works! I've just coded a piece of work that I used to find complext before. Awesome! 
+
+**Thoughts:** I think I'm improving every day. I can feel it!
+
+**Link(s) to work:** [Working with filter function at freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype)
