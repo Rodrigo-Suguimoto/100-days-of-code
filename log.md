@@ -23,3 +23,12 @@
 **Thoughts:** I think I'm improving every day. I can feel it!
 
 **Link(s) to work:** [Working with filter function at freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype)
+
+### Day 4: January 07, 2020 - Tuesday
+
+**Today's Progress**: I solved a lot of challenges quite quickly and I'm proud of me. Now I'm working in a freecodecamp's challenge to use reduce. Reduce is a function that appeared sometimes and I didn't have any idea of how to use it. Now here I am working with it! Awesome.
+
+**Thoughts:** I'm enjoying working in this journal. Even though I'm not sharing in the world in Twitter, this is helping me a lot already.
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data
+
