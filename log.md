@@ -32,3 +32,10 @@
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data
 
+### Day 5: January 08, 2020 - Wednesday
+
+**Today's Progress**: I used reduce and finally got how it works! Of course I need to practice more, but I solved a challenge with it. Awesome!
+
+**Thoughts:** I've used filter, map and reduce to solve a challenge and I'm feeling great!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data
