@@ -39,3 +39,11 @@
 **Thoughts:** I've used filter, map and reduce to solve a challenge and I'm feeling great!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data
+
+### Day 6: January 09, 2020 - Thursday
+
+**Today's Progress**: I'm still working with reduce, filter and map. They're quite a challenge, don't they? It's different than using for. I was so used to for, but I know that's not always the right solution.
+
+**Thoughts:** It's amazing how I'm getting somethings quite quickly these past days. I like it!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem
