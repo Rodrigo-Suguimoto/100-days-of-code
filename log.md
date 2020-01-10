@@ -47,3 +47,11 @@
 **Thoughts:** It's amazing how I'm getting somethings quite quickly these past days. I like it!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem
+
+### Day 7: January 10, 2020 - Friday
+
+**Today's Progress**: Today I didn't get to code so much because I woke up at 5:30AM and spent some time trying to renew ESET's license. But that's ok! So, today I worked with sort and understood a little more of how this awesome tool works.
+
+**Thoughts:** Every day I'm feeling that I'm getting things faster! That's super cool!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method
