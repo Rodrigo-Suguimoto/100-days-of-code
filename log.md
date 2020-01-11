@@ -55,3 +55,11 @@
 **Thoughts:** Every day I'm feeling that I'm getting things faster! That's super cool!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method
+
+### Day 8: January 11, 2020 - Saturday
+
+**Today's Progress**: I'm working in a challenge with split and I suppose I can solve it using Regex, but Regex is tricky and I'm still cracking it.  
+
+**Thoughts:** Ok, I've learned filter, map and reduce! Regex is hard, but I can learn. That's how I feel! 
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method
