@@ -63,3 +63,11 @@
 **Thoughts:** Ok, I've learned filter, map and reduce! Regex is hard, but I can learn. That's how I feel! 
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method
+
+### Day 9: January 12, 2020 - Sunday
+
+**Today's Progress**: I've learned a bit more about Regexp and split! I finally got how I can use /\W/ in the split method. I confess that was hard to understand (kkk)
+
+**Thoughts:** I didn't like to check the answer on freecodecamp, but I was stuck and I didn't find the answer on Google. But it's great that I could get how to solve it!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs
