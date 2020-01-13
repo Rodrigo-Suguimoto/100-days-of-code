@@ -71,3 +71,11 @@
 **Thoughts:** I didn't like to check the answer on freecodecamp, but I was stuck and I didn't find the answer on Google. But it's great that I could get how to solve it!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs
+
+### Day 10: January 13, 2020 - Monday
+
+**Today's Progress**: I've learned about every, some and how to curry a function. I'm almost finishing the Javascript course. Amazing! 
+
+**Thoughts:** There's so much to learn. This excites me and at the same time, frightens me. Confusing, right?
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs
