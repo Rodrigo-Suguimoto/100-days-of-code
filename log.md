@@ -79,3 +79,11 @@
 **Thoughts:** There's so much to learn. This excites me and at the same time, frightens me. Confusing, right?
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs
+
+### Day 11: January 14, 2020 - Tuesday
+
+**Today's Progress**: I'm using filter, regexp, map, reduce, concat! All together to solve intermediate algorithms! That's truly awesome!!
+
+**Thoughts:** I'm in constantly fear of getting stuck. I get by it by being very mechanical. Get up and do. Get up and do.
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
