@@ -87,3 +87,11 @@
 **Thoughts:** I'm in constantly fear of getting stuck. I get by it by being very mechanical. Get up and do. Get up and do.
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
+
+### Day 12: January 15, 2020 - Wednesday
+
+**Today's Progress**: I'm struggling at this challenge to differentiate two arrays, but this struggle is awesome!
+
+**Thoughts:** I was looking for a group to pair project/or just to talk about code and I think I've found one!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
