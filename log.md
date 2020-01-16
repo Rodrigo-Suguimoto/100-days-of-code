@@ -95,3 +95,11 @@
 **Thoughts:** I was looking for a group to pair project/or just to talk about code and I think I've found one!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
+
+### Day 13: January 16, 2020 - Thursday
+
+**Today's Progress**: I'm still trying to solve the challenge to diff two arrays!!
+
+**Thoughts:** Oh, I need to create more time for this! Or maybe read more about it whenever I'm away from my PC
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
