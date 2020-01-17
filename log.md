@@ -103,3 +103,11 @@
 **Thoughts:** Oh, I need to create more time for this! Or maybe read more about it whenever I'm away from my PC
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
+
+### Day 13: January 16, 2020 - Thursday
+
+**Today's Progress**: I did it!!! I solved the challenge that I was trying so hard for 3 days kkkkkk.
+
+**Thoughts:** I'm so proud that the code worked!! Oh man, that's truly an amazing feeling to have. There's so much yet to explore. Great!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
