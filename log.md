@@ -104,10 +104,18 @@
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
 
-### Day 13: January 16, 2020 - Thursday
+### Day 14: January 17, 2020 - Friday
 
 **Today's Progress**: I did it!!! I solved the challenge that I was trying so hard for 3 days kkkkkk.
 
 **Thoughts:** I'm so proud that the code worked!! Oh man, that's truly an amazing feeling to have. There's so much yet to explore. Great!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
+
+### Day 15: January 18, 2020 - Saturday
+
+**Today's Progress**: I solved a challenge by my own, but using only things I knew already. But I remembered when I was doing ICC that we solved everything with fors and ifs hahhahaa. We can solve with the basics, but that's not the smartest thing to do.
+
+**Thoughts:** There are several ways to solve the same challenge. It's amazing how one can write such a simple code when I wrote several lines hahahah
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
