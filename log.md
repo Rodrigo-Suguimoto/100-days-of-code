@@ -119,3 +119,11 @@
 **Thoughts:** There are several ways to solve the same challenge. It's amazing how one can write such a simple code when I wrote several lines hahahah
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy
+
+### Day 16: January 19, 2020 - Sunday
+
+**Today's Progress**: I'm stuck at a problem where I have to work with an array of objects and maybe use reduce. I still got to solve this mistery! 
+
+**Thoughts:** Hahaha, it's not easy at all to work with this. But I won't give up!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
