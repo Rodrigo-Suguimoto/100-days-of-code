@@ -127,3 +127,11 @@
 **Thoughts:** Hahaha, it's not easy at all to work with this. But I won't give up!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
+### Day 17: January 20, 2020 - Monday
+
+**Today's Progress**: Well, I'm progressing little by little on solving this challenge. It's so damn hard that I don't even know how to look on Google. Maybe revising the subject Objects in Javascript will help. Let's see.
+
+**Thoughts:** I'm hooked. Ok, it's frustrating not knowing how to solve this challenge, but this struggle is good. I need this!
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
