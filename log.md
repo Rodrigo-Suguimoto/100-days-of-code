@@ -135,3 +135,11 @@
 **Thoughts:** I'm hooked. Ok, it's frustrating not knowing how to solve this challenge, but this struggle is good. I need this!
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
+### Day 18: January 21, 2020 - Tuesday
+
+**Today's Progress**: Well, I've learned more about for... in, but I really didn't understand how it worked in this challenge. I had to watch a tutorial and see the code to solve this challenge. I've tried by my own for two days before I looked at other people's code
+
+**Thoughts:** I still got a lot to learn! That's exciting and terrifying at the same time.
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
