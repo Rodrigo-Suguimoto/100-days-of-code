@@ -143,3 +143,11 @@
 **Thoughts:** I still got a lot to learn! That's exciting and terrifying at the same time.
 
 **Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou
+
+### Day 19: January 22, 2020 - Wednesday
+
+**Today's Progress**: I'm struggling hardly as ever in the Intermediate Algorithm Scripting, but that's part of the journey. Let's keep going. 
+
+**Thoughts:** In 25 minutes, I'm not getting into the end of cracking the code.
+
+**Link(s) to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case
